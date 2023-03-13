@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Recic/Recic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-medeiros&color=yellow" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+🔥 Developer JR 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently studying COBOL,JCL and mainframe environment
+
+
+
+
+<br> <br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=caroline-medeiros&show_icons=true&theme=vision-friendly-dark" alt="caroline's stats"/> <br>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-medeiros&layout=compact&theme=vision-friendly-dark" alt="caroline's most languages"/>
+</p>
+
+<br><br>
