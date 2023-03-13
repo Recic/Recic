@@ -13,8 +13,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="330em" src="https://github-readme-stats.vercel.app/api?username=Recics&show_icons=true&theme=vision-friendly-dark" alt="Recic stats"/> <br>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recic&layout=compact&theme=vision-friendly-dark" alt="Recic most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=recics&show_icons=true&theme=vision-friendly-dark" alt="Recic stats"/> <br>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recic&layout=compact&theme=vision-friendly-dark" alt="Recic most languages"/>
 </p>
 
 <br><br>
